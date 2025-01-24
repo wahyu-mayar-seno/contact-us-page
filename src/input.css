@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .com {
+    transform: rotate(40deg) skew(-20deg, -10deg);
+  }
+}
